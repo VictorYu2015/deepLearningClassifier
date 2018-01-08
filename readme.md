@@ -33,5 +33,6 @@ Also, if you wish to learn more follow [here.](https://pythonprogramming.net)
 
 ## Result
 With 1000 training data set , the accuracy of prediction is not quite good as shown in the figure. 
-![](https://github.com/suraz09/deepLearningClassifier/blob/master/example.png)
+![](https://github.com/suraz09/deepLearningClassifier/blob/master/result.png)
+
 But with the help of training the model using Paperspace, I believe we will achieve a descent predictive model. 
