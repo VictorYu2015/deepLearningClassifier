@@ -21,7 +21,7 @@ For this project I decided to train only around 1000 images. Feel free to downlo
 
 The training and testing data are included in this project. Start the project with
 
-    code python train.py
+    python train.py
 
 ## Further
 Because of the restriction in computation power in my system, I am planning to make use of Papersace train the model further. If you too do not have such huge computation power in the system, here is the [$10 in credit](https://www.paperspace.com/&R=56563PG) to get started. This will give a descent 10-20 hours of computational time. 
@@ -33,5 +33,5 @@ Also, if you wish to learn more follow [here.](https://pythonprogramming.net)
 
 ## Result
 With 1000 training data set , the accuracy of prediction is not quite good as shown in the figure. 
-![]()
+![](https://github.com/suraz09/deepLearningClassifier/blob/master/example.png)
 But with the help of training the model using Paperspace, I believe we will achieve a descent predictive model. 
